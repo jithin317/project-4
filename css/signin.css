@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0,0,0, .6)), url(image/background.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0,0,0, .6)), url(../image/background.jpg);
     overflow-x: hidde;
 }
 .container {
