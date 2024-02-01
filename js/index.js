@@ -9,8 +9,7 @@ formID.addEventListener("submit", (e) => {
 });
 
 signInBtn.addEventListener("click", () => {
-  console.log("hi");
-  window.location.href = "http://localhost:5500/main/movies.html";
+  window.location.href = "https://willowy-dasik-c4d0b7.netlify.app/main/movies";
 });
 
 accordionItemHeaders.forEach((accordionItemHeader) => {
